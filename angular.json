@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "actionsNgrxTestingTuto"
+    }
+  },
+  "defaultProject": "actionsNgrxTestingTuto",
+  "cli": {
+    "analytics": false
+  }
 }
